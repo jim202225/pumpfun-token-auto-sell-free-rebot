@@ -18,7 +18,8 @@ need to make a quick profit,
 
 pumpfun代币自动卖出免费机器人软件 软件下载网址： https://www.shouu.shop/cn/xiazai.html
 Pumpfun token automatic selling free robot software Software download website: https://www.shouu.shop/cn/xiazai.html
-https://i9.ytimg.com/vi_webp/4sfhfJF1zVo/mqdefault.webp?v=683834a3&sqp=CKTn4MEG&rs=AOn4CLDZmaJJR8OhQY6vM6kgoe6mAPbPZQ
+
+
 
 视频教程/YouTube：  https://www.youtube.com/watch?v=4sfhfJF1zVo
 
