@@ -23,8 +23,6 @@ import requests
 
 # === 配置你的 RPC API 地址 ===
 
-# RPC_URL = "http://localhost:5001/rpc"
-
 RPC_URL = "http://163.172.90.77:5001/rpc"
 
 
