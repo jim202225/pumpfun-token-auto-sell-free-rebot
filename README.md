@@ -1,13 +1,24 @@
-大家好，今天给大家接收pumpfun 这个网站的自动卖出功能的软件
+大家好，今天给大家接收pumpfun 这个网站的自动卖出功能的免费软件
 
 1：单个钱包私钥用软件或者api 接口自动卖出-- 普通用户卖出，有的时候价格上涨太快，
-需要迅速卖出获利  ，讲2
+需要迅速卖出获利  ，
 
-2：多个钱包私钥用软件批量卖出--庄家使用砸盘的功能  ，讲3
+2：多个钱包私钥用软件批量卖出--庄家使用砸盘的功能  ，
 
-3：可以用卖出API 接口集成到你自己的软件中。 讲1
+3：可以用卖出API 接口集成到你自己的软件中。 
+
+Hello everyone, today I will give you the free software with automatic selling function of the website pumpfun
+
+1: Use software or API interface to automatically sell a single wallet private key - ordinary users sell, sometimes the price rises too fast,
+need to make a quick profit,
+
+2: Use software to sell multiple wallet private keys in batches - the dealer uses the function of smashing the market,
+
+3: You can use the sellAPI interface to integrate it into your own software.
 
 pumpfun代币自动卖出免费机器人软件 软件下载网址： https://www.shouu.shop/cn/xiazai.html
+Pumpfun token automatic selling free robot software Software download website: https://www.shouu.shop/cn/xiazai.html
+
 import requests
 
 # === 配置你的 RPC API 地址 ===
