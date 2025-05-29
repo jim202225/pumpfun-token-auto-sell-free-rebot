@@ -21,7 +21,7 @@ Pumpfun token automatic selling free robot software Software download website: h
 
 
 
-视频教程/YouTube：  https://www.youtube.com/watch?v=4sfhfJF1zVo
+视频教程/YouTube video：  https://www.youtube.com/watch?v=4sfhfJF1zVo
 
 import requests
 
