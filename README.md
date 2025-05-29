@@ -23,6 +23,8 @@ Pumpfun token automatic selling free robot software Software download website: h
 
 视频教程/YouTube video：  https://www.youtube.com/watch?v=4sfhfJF1zVo
 
+电报账户/telegram account：https://t.me/bz202510
+
 import requests
 
 # === 配置你的 RPC API 地址 ===
